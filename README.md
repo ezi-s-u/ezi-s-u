@@ -3,12 +3,12 @@
 <br>
 <br>
 
-<h3 align="center">👇 My Coding blog 👇</h3>
+<h3 align="center">👇 My Develop Blog 👇</h3>
 <p align="center">
   <a href="https://codingismylife.tistory.com"><img src="https://img.shields.io/badge/지수의%20코딩%20발자국-FF3399?style=flat-square&logo=Tistory&logoColor=white&link=https://codingismylife.tistory.com"/></a>&nbsp
 </p>
 <br>
-<h3 align="center">🌱 Tech Stack 🌱</h3>
+<h3 align="center">🌱 Languages 🌱</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
 </p><br>
 <br>
 
