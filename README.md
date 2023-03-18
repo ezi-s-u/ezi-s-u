@@ -25,8 +25,8 @@
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
-</p><br>
-<br>
+</p>
+<br><br><br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ezi-s-u&show_icons=true&theme=vue)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ezi-s-u)](https://solved.ac/ezi-s-u)
+| <a href="https://github.com/ezi-s-u/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ezi-s-u&show_icons=true&theme=vue&hide_border=true" /></a> | <a href="https://github.com/ezi-s-u/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezi-s-u&layout=compact&theme=vue&hide_border=true" /></a> |
+|-------------|---------------|
