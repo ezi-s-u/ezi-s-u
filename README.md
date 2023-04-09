@@ -28,5 +28,4 @@
 </p>
 <br><br><br>
 
-| <a href="https://github.com/ezi-s-u/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ezi-s-u&show_icons=true&theme=vue&hide_border=true" /></a> | <a href="https://github.com/ezi-s-u/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezi-s-u&layout=compact&theme=vue&hide_border=true" /></a> |
-|-------------|---------------|
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ljslove0617)](https://solved.ac/ljslove0617)
