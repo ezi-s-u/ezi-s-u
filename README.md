@@ -28,4 +28,4 @@
 </p>
 <br><br><br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ljslove0617)](https://solved.ac/ljslove0617)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ezi_s_u)](https://solved.ac/ezi_s_u)
