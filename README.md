@@ -1,5 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=5BBD5B&text=Nice%20to%20meet%20you&height=75&fontSize=45)
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=5BBD5B&text=I'm%20Lee%20Jisu%20&height=85&fontSize=85)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=5BBD5B&text=LeeJisu's%20github&height=85&fontSize=85)
 <br>
 <br>
 
@@ -28,4 +27,4 @@
 </p>
 <br><br><br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ezi_s_u)](https://solved.ac/ezi_s_u)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ezi_s_u)](https://solved.ac/ezi_s_u)-->
